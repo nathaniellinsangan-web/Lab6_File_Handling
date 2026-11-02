@@ -1,0 +1,12 @@
+PYTHON FILE-HANDLING PROCESSING REPORT
+--------------------------------------
+Last Name: Linsangan
+Student ID: TUPM-26-1846
+Seed Digit: 6
+ID Sum: 27
+Verification Value: 249
+Dataset Sample Size: 77
+Valid Records: 77
+Average Global Active Power: 3.995
+JSON File: Linsangan_TUPM-26-1846_record.json
+Backup FIle: Linsangan_TUPM-26-1846_record.csv

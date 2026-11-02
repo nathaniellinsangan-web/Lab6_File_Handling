@@ -1,0 +1,5 @@
+Student: Linsangan
+Student ID: TUPM-26-1846
+Seed digit: 6
+ID sum: 27
+Verification value: 249
