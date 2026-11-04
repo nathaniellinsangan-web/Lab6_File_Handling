@@ -1,0 +1,30 @@
+CYBERSECURITY INCIDENT REPORT - 2021
+==================================================
+
+Total records in dataset: 3000
+Invalid records skipped: 0
+Incidents in 2021: 299
+
+Incidents per attack type:
+  SQL Injection: 59
+  Ransomware: 55
+  Malware: 49
+  Man-in-the-Middle: 48
+  DDoS: 47
+  Phishing: 41
+
+Total financial loss: 15873.41 million USD
+Average financial loss: 53.09 million USD
+
+Five costliest incidents:
+  1. 99.81 M USD | DDoS | USA | Telecommunications
+  2. 99.77 M USD | Ransomware | France | IT
+  3. 98.76 M USD | SQL Injection | France | Government
+  4. 98.57 M USD | SQL Injection | China | IT
+  5. 98.09 M USD | SQL Injection | India | IT
+
+Output files:
+  Filtered CSV: output\filtered_incidents.csv
+  JSON summary: output\incident_summary.json
+  Backup: backup\incident_summary_backup.json (3004 bytes)
+  Backup verified: True

@@ -1,0 +1,15 @@
+{
+    "operating_system": "Android",
+    "behavior_class": 1,
+    "total_records": 700,
+    "invalid_records": 0,
+    "records_matching_os": 554,
+    "records_in_target_class": 114,
+    "average_battery_drain_mAh_day": 452.61,
+    "average_data_usage_MB_day": 202.49,
+    "exported_row_count": 114,
+    "count_verified": true,
+    "exported_csv": "output\\selected_users.csv",
+    "backup_file": "backup\\selected_users_backup.csv",
+    "backup_size_bytes": 4091
+}
